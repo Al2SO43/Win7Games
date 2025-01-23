@@ -1,0 +1,12 @@
+简体中文：
+Win7Games语言精简版是基于Windows 7操作系统中的小游戏精简而成，并修改为仅使用英文（en_US）和简体中文（zh_CN）语言的版本。本项目旨在提高这些小游戏在Linux下的兼容性，使其能够在Wine环境下运行。
+请注意，原小游戏是Windows 7操作系统的一部分，其版权属于微软公司。本项目对原小游戏进行了调整和优化，并没有改变其核心玩法或内容。
+本项目不拥有任何Windows 7内置小游戏的版权。所有小游戏的内容和原始版权仍然属于微软公司。
+本项目不对用户使用、修改或分发这些小游戏的行为负责。用户应自行确保其使用行为符合相关法律法规。
+本项目不提供任何形式的明示或暗示保证，包括但不限于适销性、特定用途适用性和非侵权性。任何因使用本项目而引起的损失或损害，项目开发者不承担任何责任。
+English:
+Win7Games Language Lite is a version based on the mini games in the Windows 7 operating system, modified to only use English (en-US) and Simplified Chinese (zh_CN) languages. This project aims to improve the compatibility of these mini games on Linux, enabling them to run in the Wine environment.
+Please note that the original mini game is part of the Windows 7 operating system and its copyright belongs to Microsoft Corporation. This project has made adjustments and optimizations to the original mini game, without changing its core gameplay or content.
+This project does not own the copyright of any built-in mini games in Windows 7. All content and original copyrights of the mini games still belong to Microsoft Corporation.
+This project is not responsible for the user's use, modification, or distribution of these mini games. Users should ensure that their usage behavior complies with relevant laws and regulations.
+This project does not provide any form of express or implied warranty, including but not limited to merchantability, fitness for a particular purpose, and non infringement. The project developer shall not be liable for any loss or damage caused by the use of this project.
